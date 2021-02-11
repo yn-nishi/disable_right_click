@@ -1,11 +1,16 @@
 {
-  "name": "右クリックは甘え",
+  "name": "右クリック無効化",
   "author": "yn-nishi",
-  "description" : "右クリックを使わないストイックなあなたへ",
+  "description" : "Webページ上で右クリックを無効にします。マウスが壊れて意図せず右クリックが押されてしまう人へ。",
   "version": "1.0.0",
   "manifest_version": 2,
   "content_scripts": [{
     "matches": ["<all_urls>"],
     "js": ["script.js"]
-  }]
+  }],
+  "icons": {
+    "16": "16.png",
+    "48": "48.png",
+   "128": "128.png" 
+  }
 }

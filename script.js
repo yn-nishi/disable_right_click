@@ -1,1 +1,1 @@
-document.oncontextmenu = ()=>{ return false }
+document.oncontextmenu = () => { return false }

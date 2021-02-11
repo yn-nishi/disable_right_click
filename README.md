@@ -1,4 +1,4 @@
-## 右クリックは甘え
+## 右クリック無効化
 右クリックが反応しなくなるChrome拡張機能です。  
 (A Chrome Extension that makes right-clicking unresponsive.)
 
